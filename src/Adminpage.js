@@ -4,6 +4,7 @@ import Adminitem from "./Adminitem";
 
 
 //basically i want to see organiser and attendees for each event
+// TODO: this component is pending 
 
 export default function Adminpage(){
 
